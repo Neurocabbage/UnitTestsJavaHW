@@ -1,7 +1,7 @@
 package seminars.second.Vehicle;
 
 public class Car extends Vehicle {
-    private String company;
+    private final String company;
     private String model;
     private int yearRelease;
     private int numWheels;
