@@ -21,5 +21,6 @@
     <orderEntry type="library" exported="" name="junit.jupiter.api" level="application" />
     <orderEntry type="library" exported="" name="junit.platform.commons" level="application" />
     <orderEntry type="library" exported="" name="junit.jupiter.params" level="application" />
+    <orderEntry type="library" exported="" name="mockito.core" level="application" />
   </component>
 </module>
